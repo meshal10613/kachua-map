@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": { "ADM4_EN": "Sachar" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [90.86, 23.42],
+                        [90.92, 23.42],
+                        [90.92, 23.39],
+                        [90.86, 23.39],
+                        [90.86, 23.42]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ADM4_EN": "Bitara" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [90.8, 23.41],
+                        [90.85, 23.41],
+                        [90.85, 23.38],
+                        [90.8, 23.38],
+                        [90.8, 23.41]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ADM4_EN": "Palakhal Model" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [90.91, 23.38],
+                        [90.96, 23.38],
+                        [90.96, 23.35],
+                        [90.91, 23.35],
+                        [90.91, 23.38]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ADM4_EN": "Gohat North" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [90.93, 23.34],
+                        [90.98, 23.34],
+                        [90.98, 23.31],
+                        [90.93, 23.31],
+                        [90.93, 23.34]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ADM4_EN": "Gohat South" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [90.93, 23.3],
+                        [90.98, 23.3],
+                        [90.98, 23.27],
+                        [90.93, 23.27],
+                        [90.93, 23.3]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ADM4_EN": "Kachua North" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [90.86, 23.37],
+                        [90.9, 23.37],
+                        [90.9, 23.34],
+                        [90.86, 23.34],
+                        [90.86, 23.37]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ADM4_EN": "Kachua South" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [90.86, 23.33],
+                        [90.9, 23.33],
+                        [90.9, 23.3],
+                        [90.86, 23.3],
+                        [90.86, 23.33]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ADM4_EN": "Kadla" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [90.81, 23.36],
+                        [90.85, 23.36],
+                        [90.85, 23.33],
+                        [90.81, 23.33],
+                        [90.81, 23.36]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ADM4_EN": "Paschim Sahadebpur" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [90.79, 23.32],
+                        [90.84, 23.32],
+                        [90.84, 23.29],
+                        [90.79, 23.29],
+                        [90.79, 23.32]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ADM4_EN": "Purba Sahadebpur" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [90.85, 23.29],
+                        [90.89, 23.29],
+                        [90.89, 23.26],
+                        [90.85, 23.26],
+                        [90.85, 23.29]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ADM4_EN": "Karaiya" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [90.9, 23.28],
+                        [90.94, 23.28],
+                        [90.94, 23.25],
+                        [90.9, 23.25],
+                        [90.9, 23.28]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ADM4_EN": "Ashrafpur" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [90.86, 23.25],
+                        [90.92, 23.25],
+                        [90.92, 23.21],
+                        [90.86, 23.21],
+                        [90.86, 23.25]
+                    ]
+                ]
+            }
+        }
+    ]
+}
